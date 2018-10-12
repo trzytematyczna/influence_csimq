@@ -1,0 +1,79 @@
+,,,,
+Rank,Conference（Full Name）,normalized_venue (MA dataset),H5-Index (Arminer),Short Name  (Arminer)
+13,AAAI Conference on Artificial Intelligence,aaai,44,AAAI
+19,Autonomous Agents and Multi-Agent Systems,aamas,36,AAMAS
+72,Asian Conference on Computer Vision,accv,10,ACCV
+10,Annual Meeting of the Association for Computational Linguistics,acl,48,ACL
+97,Artificial Intelligence,ai,0,AI
+45,Artificial Intelligence in Medicine,aim,21,AIM
+65,International Conference on Algorithmic Learning Theory,alt,13,ALT
+30,British Machine Vision Conference,bmvc,30,BMVC
+54,Computational Intelligence,ci,17,CI
+34,Computational Linguistics,cl,26,CL
+35,International Conference on Computational Linguistics,coling,26,COLING
+49,Annual Conference on Computational Learning Theory,colt,20,COLT
+22,Computer Vision and Image Understanding,cviu,34,CVIU
+1,IEEE Conference on Computer Vision and Pattern Recognition,cvpr,112,CVPR
+39,Data & Knowledge Engineering,dke,24,Data Knowl. Eng.
+15,Decision Support Systems,dss,43,DSS
+48,European Conference on Artificial Intelligence,ecai,20,ECAI
+57,European Conference on Computer Vision,eccv,16,ECCV
+12,Conference on Empirical Methods in Natural Language Processing,emnlp,45,EMNLP
+33,Genetic and Evolutionary Computation Conference,gecco,27,GECCO
+89,International Conference on Artificial Neural Networks,icann,4,ICANN
+47,International Conference on Automated Planning and Scheduling,icaps,20,ICAPS
+64,International Joint Conference on Biometrics,icb,13,ICB
+74,International Conference on Case-Based Reasoning,iccbr,10,ICCBR
+6,International Conference on Computer Vision,iccv,58,ICCV
+43,International Conference on Document Analysis and Recognition,icdar,22,ICDAR
+7,International Conference on Machine Learning,icml,56,ICML
+90,International Conference on Neural Information Processing,iconip,4,ICONIP
+26,International Conference on Pattern Recognition,icpr,31,ICPR
+5,IEEE International Conference on Robotics and Automation,icra,58,ICRA
+69,IEEE International Conference on Tools with Artificial Intelligence,ictai,11,ICTAI
+77,Intelligent Data Analysis,ida,9,IDA
+28,International Journal of Approximate Reasoning,ijar,31,IJAR
+20,International Joint Conference on Artificial Intelligence,ijcai,35,IJCAI
+88,International Journal of Computational Intelligence and Applications,ijcia,5,IJCIA
+44,International Joint Conference on Neural Networks,ijcnn,22,IJCNN
+4,International Journal of Computer Vision,ijcv,58,IJCV
+52,International Journal on Document Analysis and Recognition,ijdar,18,IJDAR
+50,International Journal of Intelligent Systems,ijis,20,IJIS
+75,International Journal of Pattern Recognition and Artificial Intelligence,ijprai,10,IJPRAI
+78,International Conference on Inductive Logic Programming,ilp,9,ILP
+37,Journal of Artificial Intelligence Research,jair,26,JAIR
+51,Journal of Automated Reasoning,jar,20,JAR
+79,Journal of Experimental and Theoretical Artificial Intelligence,jetai,9,JETAI
+9,Journal of Machine Learning Research,jmlr,49,JMLR
+96,Knowledge-Based Systems,kbs,0,KBS
+38,International Conference on Principles of Knowledge Representation and Reasoning,kr,24,KR
+86,"International conference on Knowledge Science, Engineering and Management",ksem,6,KSEM
+70,The Annual Conference of the North American Chapter of the Association for Computational Linguistics,naacl,10,NAACL
+29,Neural Computation,nc,30,NC
+42,Neural Computing & Applications,nca,22,NCA
+8,Annual Conference on Neural Information Processing Systems,nips,51,NIPS
+60,Neural Processing Letters,npl,14,NPL
+66,Pattern Analysis and Applications,paa,13,PAA
+81,Pacific Rim International Conference on Artificial Intelligence,pricai,8,PRICAI
+18,Pattern Recognition Letters,prl,37,PRL
+92,ACM Transactions on Asian Language Information Processing,talip,3,TALIP
+56,ACM Transactions on Applied Perception,tap,16,TAP
+11,"IEEE Transactions on Audio, Speech, and Language Processing",taslp,46,TASLP
+14,IEEE Transactions on Fuzzy Systems,tfs,44,TFS
+80,ACM Transactions on Speech and Language Processing,tslp,9,TSLP
+59,International Conference on Uncertainty in Artificial Intelligence,uai,15,UAI
+76,Web Intelligence and Agent Systems,wias,9,WIAS
+16,Neurocomputing,ijon,39,
+21,Image and Vision Computing,ivc,35,
+23,Machine Learning,ml,33,
+24,Neural Networks,neural networks,32,
+25,Fuzzy Sets and Systems,fss,31,
+31,Computer Speech & Language,computer speech language,27,
+32,Evolutionary Computation,ec,27,
+55,Natural Computing,nc,17,
+61,Artificial Life,artificial life and robotics,13,
+68,Expert Systems,eswa,11,
+82,Machine Vision and Applications,mva,7,
+83,Connection Science,connection,7,
+85,Soft Computing,soco,6,
+95,Pattern Recognition,pr,0,

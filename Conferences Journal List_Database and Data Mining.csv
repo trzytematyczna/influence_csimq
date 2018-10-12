@@ -1,0 +1,47 @@
+,,,,
+Rank,Conference（Full Name）,normalized_venue (MA dataset),H5-Index (Arminer),Short Name (Arminer)
+44,The Asia Pacific Web Conference,apweb,11,APWeb
+25,International Conference on Innovation Database Research,cidr,23,CIDR
+9,ACM International Conference on Information and Knowledge Management,cikm,38,CIKM
+50,Database Systems for Advanced Applications,dasfaa,6,DASFAA
+54,Database and Expert System Applications,dexa,3,DEXA
+40,Distributed and Parallel Databases,dpd,12,DPD
+21,European Conference on IR Research,ecir,24,ECIR
+52,European Conference on Principles and Practice of Knowledge Discovery in Databases,pkdd,5,ECML-PKDD
+14,International Conference on Extending DB Technology,edbt,29,EDBT
+22,European Journal of Information Systems,ejis,24,EJIS
+35,International Conference on Conceptual Modeling,er,16,ER
+33,Extended Semantic Web Conference,eswc,17,ESWC
+8,IEEE International Conference on Data Engineering,icde,40,ICDE
+10,IEEE International Conference on DataMining,icdm,33,ICDM
+34,International Conference on Database Theory,icdt,16,ICDT
+13,International Journal of Geographical Information Science,ijgis,30,IJGIS
+53,International Journal of Knowledge Management,ijkm,5,IJKM
+47,International Journal on Semantic Web and Information Systems,ijswis,9,IJSWIS
+19,Information & Management,inform management,25,INFORM MANAGEMENT
+16,Information Systems,is,28,IS
+31,IEEE International Semantic Web Conference,iswc,18,ISWC
+49,Journal of Database Management,jdm,8,JDM
+12,Knowledge and Information Systems,kais,31,KAIS
+3,ACM Knowledge Discovery and Data Mining,kdd,56,KDD
+37,International Conference on Mobile Data Management,mdm,15,MDM
+59,Pacific-Asia Conference on Knowledge Discovery and Data Mining,pakdd,1,PAKDD
+24,ACM SIGMOD Conference on Principles of DB Systems,pods,23,PODS
+15,SIAM International Conference on Data Mining,sdm,29,SDM
+6,International Conference on Research an Development in Information Retrieval,sigir,47,SIGIR
+38,International Conference on Scientific and Statistical DB Management,ssdbm,15,SSDBM
+28,ACM Transactions on Knowledge Discovery from Data,tkdd,20,TKDD
+4,IEEE Transactions on Knowledge and Data Engineering,tkde,53,TKDE
+20,ACM Transactions on Database Systems,tods,25,TODS
+30,ACM Transactions on Information Systems,tois,19,TOIS
+29,ACM Transactions on the Web,tweb,19,TWEB
+17,the international journal on very large data bases,vldb,27,VLDB Journal
+46,International Conference on Web Age Information Management,waim,10,WAIM
+48,International ACM Workshop on Web and Databases,webdb,8,WebDB
+41,Web Information Systems Engineering,wise,12,WISE
+5,ACM International Conference on Web Search and Data Mining,wsdm,50,WSDM
+1,International World Wide Web Conferences,www,66,WWW
+18,Advanced Engineering Informatics,artificial,26,AEI
+60,Data Mining and Knowledge Discovery,datamine,0,DMKD
+39,Journal of Intelligent Information Systems,jiis,15,J. Intell. Inf. Syst.
+2,Information Sciences,isci,62,Inf. Sci.
